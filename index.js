@@ -1,5 +1,5 @@
 const { program } = require('commander');
-const { blue, green, red } = require('kleur');
+const { blue, green, yellow, red } = require('kleur');
 const {
   serverStatus,
   recipeLookup,
