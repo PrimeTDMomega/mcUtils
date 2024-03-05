@@ -1,14 +1,11 @@
 {
-  "name": "mcutils",
+  "name": "@primetdm/mcutils",
   "version": "1.0.0-ALPHA",
   "description": "Utilities for Minecraft.",
   "main": "index.js",
-  "bin": {
-    "mcUtils": "index.js"
-  },
   "scripts": {
     "test": "node index.js"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "primetdm",
+  "license": "MIT"
 }
